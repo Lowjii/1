@@ -8,14 +8,9 @@
   <p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
   <p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
   <ol>
-    hfdf
-    dfusdf
-    sdfsdf
-    sdfjsd
-    jf
-    asfpasjd
-    ajsisahf
-    sjfafhiasfj
-    oasfahf
-    isaf
+    <li>sdfsdfsdf</li>
+    <li>hsshfishfshf</li>
+    <li>sdflklsjfskjfsf</li>
+    <li>sfoijfojfosijf</li>
+    <li>sdfjhsdfj;sjfs</li>
   <ol>
